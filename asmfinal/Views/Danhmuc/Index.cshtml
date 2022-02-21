@@ -1,0 +1,38 @@
+﻿@model IEnumerable<asmfinal.Models.Danhmuc>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_Layout";
+}
+
+<h1>Danh mục</h1>
+
+<p>
+    <a asp-action="Create" style="text-decoration:none;" class="btn btn-danger">Thêm danh mục</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenDm)
+            </th>
+            <th>
+               
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDm)
+            </td>
+            <td>
+                <a  class="btn btn-warning" asp-action="Edit" asp-route-id="@item.MaDm" style="text-decoration: none;" >Sửa danh mục</a> 
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.MaDm" >Chi tiết danh mục</a> 
+                <a class="btn btn-dark" asp-action="Delete" asp-route-id="@item.MaDm" >Xóa danh mục</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

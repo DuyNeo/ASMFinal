@@ -1,0 +1,118 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Asm123</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/css/layout.css" rel="stylesheet" />
+    <style>
+        .sanpham {
+            display: none;
+        }
+
+        .products:hover .sanpham {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <header>
+
+        <div class="logo" style="text-align:center">
+            <a asp-controller="home">
+                <img src="~/Images/logo.png" alt="Alternate Text" />
+            </a>
+        </div>
+
+        <div style="display: flex; align-items: center; padding: 10px 40px; z-index: 99999999;">
+            <div style="display: flex; flex: 2; align-items: center; gap: 71px;font-size:18px">
+                <a asp-action="index" asp-controller="home">Home</a>
+
+                <a asp-action="about" asp-route-id="about">About</a>
+
+                <div class="products" style="position: relative; ">
+                    <a asp-controller="home"  asp-action="index">Products</a>
+
+                    <div class="sanpham" style="position: absolute; top: 100%; z-index: 999; padding-inline: 10px;
+                        background: white; border: 1px solid black;">
+                    
+                       
+                        @await Html.PartialAsync("_danhmucpartical")
+                    </div>
+                </div>
+
+                <div>
+                    <a asp-action="contact" asp-route-id="contact">Contact</a>
+                </div>
+            </div>
+
+            <div style="flex: 3; display: flex;">
+                <input style="flex: 1;"/>
+                <button class="">
+                    <i class="bi bi-search"></i>
+                </button>
+            </div>
+               
+            <div style="flex: 1; text-align: center;">
+                <button style=" position: relative;">
+                    <div style="position: absolute; top: -15px; right: -15px; 
+                        width: 20px; height: 20px; border-radius: 50%;
+                        background: red; color: white;">4</div>
+                    <i class="bi bi-bag"></i>
+                </button>
+            </div>
+
+            <a @*asp-controller="Account" asp-action="Index"*@>Đăng nhập</a>
+        </div>
+        
+    </header>
+
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer >
+        <div class="phot">
+            <div class="item">
+                <p>Chăm sóc khách hàng</p>
+                <a href="#" style=" text-decoration: none; color:black">Trung tâm trợ giúp</a>
+                <a href="#" style=" text-decoration: none; color:black">NowSaiGon</a>
+                <a href="#" style=" text-decoration: none; color:black">Hướng dẫn mua hàng</a>
+            </div>
+            <div class="item">
+                <p>Theo dõi</p>
+                <i class="bi bi-facebook"><a href="#" style=" text-decoration: none; color:black">FaceBook</a></i>
+                <i class="bi bi-instagram"> <a href="#" style=" text-decoration: none; color:black">Instagram</a></i>
+            </div>
+            <div class="item">
+                <p>Giới thiệu</p>
+                <a href="#" style=" text-decoration: none; color:black">Về NowSaiGon</a>
+                <a href="#" style=" text-decoration: none; color:black">Tuyển dụng</a>
+                <a href="#" style=" text-decoration: none; color:black">Điều khoản</a>
+            </div>
+            <div class="item">
+                <p>Danh mục</p>
+                <a href="#" style=" text-decoration: none; color:black">Tee</a>
+                <a href="#" style=" text-decoration: none; color:black">Hoodie</a>
+               
+            </div>
+        </div>
+      
+            <p style="text-align:center">Needs Of Wisdom® All Rights Reserved.</p>
+        
+        
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

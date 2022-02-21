@@ -1,0 +1,354 @@
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.exe
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.deps.json
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.runtimeconfig.json
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.Views.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.Views.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorAssemblyInfo.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorAssemblyInfo.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\staticwebassets\asmfinal.StaticWebAssets.Manifest.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\staticwebassets\asmfinal.StaticWebAssets.xml
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\scopedcss\bundle\asmfinal.styles.css
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.input.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.output.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorCoreGenerate.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Create.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Delete.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Edit.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Create.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Delete.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Edit.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Create.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Delete.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Edit.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Create.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Delete.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Edit.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Create.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Delete.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Edit.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Create.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Delete.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Details.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Edit.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Index.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorTargetAssemblyInfo.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorTargetAssemblyInfo.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.Views.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CopyComplete
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.dll
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.pdb
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\hp\OneDrive\Máy tính\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\appsettings.json
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.exe
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.deps.json
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.runtimeconfig.json
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.runtimeconfig.dev.json
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.pdb
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.Views.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.Views.pdb
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.AssemblyReference.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.AssemblyInfoInputs.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.AssemblyInfo.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CoreCompileInputs.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.MvcApplicationPartsAssemblyInfo.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorAssemblyInfo.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorAssemblyInfo.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\staticwebassets\asmfinal.StaticWebAssets.Manifest.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\staticwebassets\asmfinal.StaticWebAssets.xml
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\scopedcss\bundle\asmfinal.styles.css
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.input.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.output.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorCoreGenerate.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Create.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Delete.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Details.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Edit.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Create.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Delete.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Details.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Edit.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Create.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Delete.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Details.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Edit.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Create.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Delete.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Details.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Edit.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Create.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Delete.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Details.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Edit.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Create.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Delete.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Details.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Edit.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorTargetAssemblyInfo.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorTargetAssemblyInfo.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.Views.pdb
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CopyComplete
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.dll
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.pdb
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.genruntimeconfig.cache
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_danhmucpartical.cshtml.g.cs
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Web.Providers.dll
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\InfoUser.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Signin.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Signup.cshtml.g.cs
+D:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_alert.cshtml.g.cs
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.exe
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.deps.json
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.runtimeconfig.json
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.runtimeconfig.dev.json
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.pdb
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.Views.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\asmfinal.Views.pdb
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Web.Providers.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\asmfinal\asmfinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.AssemblyReference.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.AssemblyInfoInputs.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.AssemblyInfo.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CoreCompileInputs.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.MvcApplicationPartsAssemblyInfo.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorAssemblyInfo.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorAssemblyInfo.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\staticwebassets\asmfinal.StaticWebAssets.Manifest.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\staticwebassets\asmfinal.StaticWebAssets.xml
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\scopedcss\bundle\asmfinal.styles.css
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.input.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.output.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorCoreGenerate.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\InfoUser.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Signin.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Signup.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Create.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Delete.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Details.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Edit.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Chitiethoadon\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Create.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Delete.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Details.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Edit.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Create.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Delete.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Details.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Edit.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Giohang\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Create.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Delete.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Details.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Edit.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Khachhang\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Create.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Delete.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Details.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Edit.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Nhanvien\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Create.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Delete.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Details.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Edit.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Sanpham\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_alert.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_danhmucpartical.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorTargetAssemblyInfo.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorTargetAssemblyInfo.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.Views.pdb
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CopyComplete
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.dll
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.pdb
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<asmfinal.Models.Sanpham>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create"  class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenHang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HinhAnh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonGiaNhap)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonGiaBan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaDmNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HinhAnh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGiaNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGiaBan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaDmNavigation.TenDm)
+            </td>
+            <td>
+                <a  class="btn btn-danger" asp-action="Edit" asp-route-id="@item.MaHang">Edit</a> |
+                <a  class="btn btn-dark" asp-action="Details" asp-route-id="@item.MaHang">Details</a> |
+                <a  class="btn btn-success" asp-action="Delete" asp-route-id="@item.MaHang">Delete</a>
+            </td>   
+        </tr>
+}
+    </tbody>
+</table>

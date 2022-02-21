@@ -1,0 +1,39 @@
+﻿
+
+@model Sanpham
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+<div class="container"> 
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title">@Model.TenHang</h3>
+
+            <div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-6">
+                    <div class="white-box text-center"><img style="max-width:480px;margin-right:20px" src="~/Image/@Model.HinhAnh" class="img-responsive"></div>
+                </div>
+                <div class="col-lg-7 col-md-7 col-sm-6">
+                    <h4 class="box-title mt-5">
+                        Mô tả sản phẩm
+                    </h4>
+                    <p>Lorem Ipsum có sẵn, nhưng phần lớn đã bị thay đổi dưới một số hình thức, bằng cách tiêm hài hước, hoặc các từ ngẫu nhiên trông thậm chí không đáng tin cậy.nhưng phần lớn đã bị thay đổi dưới một số hình thức, bằng cách tiêm hài hước.</p>
+                    <h2 class="mt-5">
+                        $@Model.DonGiaBan
+                    </h2>
+                    @*<button class="btn btn-dark btn-rounded mr-1" data-toggle="tooltip" title="" data-original-title="Add to cart">
+                        <i class="fa fa-shopping-cart"></i>
+                    </button>
+                    <button class="btn btn-primary btn-rounded">Mua ngay</button>*@
+                    <h3 class="box-title mt-5">Điểm nổi bật chính</h3>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-check text-success"></i>Cấu trúc chắc chắn</li>
+                        <li><i class="fa fa-check text-success"></i>Được thiết kế để thúc đẩy tính di động dễ dàng</li>
+                        <li><i class="fa fa-check text-success"></i>Đồ nội thất hoàn hảo để phô trương đồ sưu tầm tuyệt vời của bạn</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

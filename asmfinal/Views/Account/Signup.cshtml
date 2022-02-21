@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "signup";
+}
+
+@model Khachhang;
+
+<style>
+    .form-group span {
+        display: none;
+    }
+
+    span:not(:empty) {
+        display: inline-block;
+    }
+</style>
+<form asp-action="signup" asp-controller="account" method="post">
+    <div class="form-group">
+        <label asp-for="TenKhach"></label>
+        <input asp-for="TenKhach" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name">
+        <span asp-validation-for="TenKhach" class="alert alert-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+        <span asp-validation-for="Email" class="alert alert-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MatKhau"></label>
+        <input asp-for="MatKhau" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+        <span asp-validation-for="Email" class="alert alert-danger"></span>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Đăng ký</button>
+</form>
+
+<h3>Bạn đã có tài khoản ? <a asp-action="signin">Đăng nhập</a></h3>

@@ -1,0 +1,18 @@
+﻿
+@{
+    var danhmucs = ViewData["danhmuc"] as List<Danhmuc>;
+}
+
+@if (danhmucs != null )
+{
+
+     
+
+                foreach (var item in danhmucs)
+                {
+                <div>
+                    <a asp-action="index" asp-route-id="@item.MaDm">@item.TenDm</a>
+                </div>
+                }
+
+}
