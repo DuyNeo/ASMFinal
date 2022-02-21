@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using asmfinal.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace Asm123.Controllers
 {
@@ -22,6 +23,11 @@ namespace Asm123.Controllers
         [HttpGet("/manage/khachhang")]
         public async Task<IActionResult> Index()
         {
+            if (HttpContext.Session.GetString("tenNv") == null)
+            {
+                TempData["message"] = "Vui lòng đăng nhập tài khoản admin";
+                return RedirectToAction("Admin", controllerName: "Account");
+            }
             return View(await _context.Khachhang.ToListAsync());
         }
 

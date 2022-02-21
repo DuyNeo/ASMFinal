@@ -300,6 +300,7 @@ E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\scopedcss\bundle\asmfinal.styles.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.input.cache
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.TagHelpers.output.cache
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.RazorCoreGenerate.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Admin.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\InfoUser.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Account\Signin.cshtml.g.cs
@@ -342,6 +343,8 @@ E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.c
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_alert.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_danhmucpartical.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutManage.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_login.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
@@ -352,3 +355,7 @@ E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.csproj.CopyComplete
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.dll
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.pdb
 E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\asmfinal.genruntimeconfig.cache
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_loginAdmin.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Pay.cshtml.g.cs
+E:\asmfinal\asmfinal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_countcart.cshtml.g.cs

@@ -11,6 +11,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.SqlServer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
+
 namespace asmfinal
 {
     public class Startup
@@ -25,7 +27,9 @@ namespace asmfinal
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddControllersWithViews();
+            services.AddSession(option => option.IdleTimeout = TimeSpan.FromMinutes(90));
             //db connect
             var connection = Configuration.GetConnectionString("inventorydatabase");
             services.AddDbContext<ASMContext>(options => options.UseSqlServer(connection));
@@ -50,7 +54,7 @@ namespace asmfinal
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseSession();
             app.UseEndpoints(endpoints =>
 
             {

@@ -37,12 +37,12 @@
                 <a asp-action="about" asp-route-id="about">About</a>
 
                 <div class="products" style="position: relative; ">
-                    <a asp-controller="home"  asp-action="index">Products</a>
-
+                    <a asp-controller="home" asp-action="index">Products</a>
+                    
                     <div class="sanpham" style="position: absolute; top: 100%; z-index: 999; padding-inline: 10px;
                         background: white; border: 1px solid black;">
-                    
-                       
+
+
                         @await Html.PartialAsync("_danhmucpartical")
                     </div>
                 </div>
@@ -52,23 +52,21 @@
                 </div>
             </div>
 
-            <div style="flex: 3; display: flex;">
-                <input style="flex: 1;"/>
-                <button class="">
+            <form style="flex: 3; display: flex;">
+                <input name="name" style="flex: 1;" />
+                <button type="submit" class="">
                     <i class="bi bi-search"></i>
                 </button>
-            </div>
-               
+            </form>
+
             <div style="flex: 1; text-align: center;">
                 <button style=" position: relative;">
-                    <div style="position: absolute; top: -15px; right: -15px; 
-                        width: 20px; height: 20px; border-radius: 50%;
-                        background: red; color: white;">4</div>
-                    <i class="bi bi-bag"></i>
+                    @await Html.PartialAsync("_countcart")
+                    <a asp-action="Index" asp-controller="cart"><i class="bi bi-bag"></i></a>
                 </button>
             </div>
 
-            <a @*asp-controller="Account" asp-action="Index"*@>Đăng nhập</a>
+            @await Html.PartialAsync("_login")
         </div>
         
     </header>

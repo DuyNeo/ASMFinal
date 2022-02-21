@@ -30,7 +30,7 @@
                                 
                                 <img src="~/Image/@item.HinhAnh" alt="" />
                                
-                                <a  class="adtocart">
+                                <a asp-controller="cart" asp-action="Buy" asp-route-id="@item.MaHang"  class="adtocart">
                                     <i class="fa fa-shopping-cart"></i>
                                 </a>
                             </div>

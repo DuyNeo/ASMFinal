@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<ItemCart>
+
+@if (Model != null)
+{
+    <link href="~/css/cart.css" rel="stylesheet" />
+    <div class="cart_section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1">
+                    <div class="cart_container">
+                        <div class="cart_title">Shopping Cart<small> (@Model.Count() item in your cart) </small></div>
+                        <div class="cart_items">
+                            <ul class="cart_list">
+                                @foreach (var item in Model)
+                                {
+                                    <li class="cart_item clearfix">
+                                        <div class="cart_item_image"><img src="~/Image/@item.sanpham.HinhAnh" alt=""></div>
+                                        <div class="cart_item_info d-flex flex-md-row flex-column justify-content-between">
+                                            <div class="cart_item_name cart_info_col">
+                                                <div class="cart_item_title">Name</div>
+                                                <div style="width: 233px" class="cart_item_text">@item.sanpham.TenHang</div>
+                                            </div>
+                                         
+                                            <div class="cart_item_quantity cart_info_col">
+                                                <div class="cart_item_title">Quantity</div>
+                                                <div class="cart_item_text">@item.Quantity</div>
+                                            </div>
+                                            <div class="cart_item_price cart_info_col">
+                                                <div class="cart_item_title">Price</div>
+                                                <div class="cart_item_text">₹@item.sanpham.DonGiaBan</div>
+                                            </div>
+                                            <div class="cart_item_total cart_info_col">
+                                                <div class="cart_item_title">Total</div>
+                                                <div class="cart_item_text">
+                                                    @{ var num = item.sanpham.DonGiaBan * item.Quantity;}
+                                                    ₹@num
+                                                </div>
+                                            </div>
+                                            <div class="cart_item_price cart_info_col">
+                                                <a asp-action="Remove" asp-route-id="@item.sanpham.MaHang"   class="cart_item_text btn btn-danger text-white">X</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                        <div class="order_total">
+                            <div class="order_total_content text-md-right">
+                                <div class="order_total_title">Order Total:</div>
+                                <div class="order_total_amount">₹@ViewBag.total</div>
+                            </div>
+                        </div>
+                        <div class="cart_buttons"> <a asp-controller="home" asp-action="index" class="button cart_button_clear">Continue Shopping</a> <a asp-controller="cart" asp-action="Pay" class="button cart_button_checkout">Tiến hành thanh toán</a> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}else
+            {
+                <h1 class="alert alert-info">Giỏ hàng trống</h1>
+            }

@@ -2,9 +2,16 @@
 
     string message = TempData["message"] as string;
 
+    string messageType = TempData["messageType"] as string;
+    messageType ??= "success";
+
+
 
 
 
 }
 
-<div class="alert alert-success">@message</div>
+@if (message != null)
+{
+    <div class="alert alert-@messageType">@message</div>
+}

@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using asmfinal.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace asmfinal.Controllers
 {
@@ -22,6 +23,11 @@ namespace asmfinal.Controllers
         [HttpGet("/manage/chitiethoadon")]
         public async Task<IActionResult> Index()
         {
+            if(HttpContext.Session.GetString("tenNv") == null)
+            {
+                TempData["message"] = "Vui lòng đăng nhập tài khoản admin";
+                return RedirectToAction("Admin", controllerName: "Account");
+            }
             var aSMContext = _context.Chitiethoadon.Include(c => c.MaHangNavigation).Include(c => c.MaKhachNavigation);
             return View(await aSMContext.ToListAsync());
         }

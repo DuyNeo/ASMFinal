@@ -23,10 +23,14 @@ namespace asmfinal.Controllers
         }
 
         [Route("/")]
-        public async Task<IActionResult> Index(int? id)
+        public async Task<IActionResult> Index(int? id, string name)
         {
+         
             ViewData["danhmuc"] = await _context.Danhmuc.ToListAsync();
-
+            if(name != null)
+            {
+                return View(await _context.Sanpham.Select(x => x).Where(x => x.TenHang.Contains(name)).ToListAsync());
+            }
             if (id == null)
             {
                 return View(await _context.Sanpham.ToListAsync());
